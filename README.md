@@ -1,16 +1,24 @@
-### Hi there 👋
+### Oii, eu sou a Vitória!
 
-<!--
-**Vitoria68/vitoria68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou aprendendo as bases de programação
+- 📫 Como me encontrar: vitoriamarrani@icloud.com
+- 😄 Pronomes: ela\dela
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/vitoria68">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoria68&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria68&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
+</div>
+      
+  ##
+ 
+<div> 
+ 
+  <a href="https://instagram.com/viih07mp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatovitoriamarrani@icloud.com"><img src="https://img.shields.io/badge/-icloud-%23333?style=for-the-badge&logo=icloud&logoColor=blue" target="_blank"></a>
+  
