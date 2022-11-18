@@ -22,3 +22,6 @@
   <a href="https://instagram.com/viih07mp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatovitoriamarrani@icloud.com"><img src="https://img.shields.io/badge/-icloud-%23333?style=for-the-badge&logo=icloud&logoColor=blue" target="_blank"></a>
   
+ ![Snake animation](https://github.com/Vitoria68/vitoria68/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
