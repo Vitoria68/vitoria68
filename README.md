@@ -4,7 +4,7 @@
 - 📫 Como me encontrar: vitoriamarrani@icloud.com
 - 😄 Pronomes: ela\dela
 -  link do meu IDE do CS50: https://ide.cs50.io/2013fcd67422424585d4aa572e68abd3
-
+  
 <div align="center">
   <a href="https://github.com/Vitoria68">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoria68&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
