@@ -1,6 +1,6 @@
 ### Oii, eu sou a Vitória!
 
-- 🌱 Estou aprendendo as bases de programação
+- 🌱 Iniciante em programação 
 - 📫 Como me encontrar: vitoriamarrani@icloud.com
 - <3 Link do meu IDE do CS50: https://ide.cs50.io/2013fcd67422424585d4aa572e68abd3
   
