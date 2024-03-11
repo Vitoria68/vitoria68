@@ -2,7 +2,6 @@
 
 - 🌱 Iniciante em programação 
 - 📫 Como me encontrar: vitoriamarrani@icloud.com
-- <3 Link do meu IDE do CS50: https://ide.cs50.io/2013fcd67422424585d4aa572e68abd3
   
 <div align="center">
   <a href="https://github.com/Vitoria68">
