@@ -1,6 +1,7 @@
 ### Oii, eu sou a Vitória!
 
-- 🌱 Iniciante em programação 
+- 🌱 Iniciante em programação
+-  programo em C e iniciando em Java e C++
 - 📫 Como me encontrar: vitoriamarrani@icloud.com
   
 <div align="center">
