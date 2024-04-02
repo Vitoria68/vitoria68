@@ -3,6 +3,7 @@
 - 🌱 Iniciante em programação
 -  programo em C e iniciando em Java e C++
 - 📫 Como me encontrar: vitoriamarrani@icloud.com
+- LinkedIn: www.linkedin.com/in/viti711
   
 <div align="center">
   <a href="https://github.com/Vitoria68">
